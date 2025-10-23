@@ -1,0 +1,1 @@
+Note: navigate inside this folder before running the bash files 
