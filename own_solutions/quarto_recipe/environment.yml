@@ -1,0 +1,10 @@
+name: la_interactions_quarto
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab=4.3 
+  - pandas=2.2 
+  - matplotlib=3.9
+  - xlrd=2.0
+  - jupyter-cache=1.0 
