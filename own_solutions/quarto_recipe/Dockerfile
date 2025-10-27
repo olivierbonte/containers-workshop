@@ -33,5 +33,3 @@ RUN conda tos accept --override-channels --channel https://repo.anaconda.com/pkg
 # set .bashrc in root as this is default workingdir!
 RUN echo "source activate ${ENV_NAME}" >> /root/.bashrc
 
-# run quarto check to see if it recognizes python
-RUN quarto check 
